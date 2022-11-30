@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+ <img width=200px height=200px src="https://raw.githubusercontent.com/Adilasyah/Portal-Berita/01c697e085efd5c181f12f51ea72ff81f4b84b23/asset_git/logo.svg" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Portal Berita Olahraga</h3>
